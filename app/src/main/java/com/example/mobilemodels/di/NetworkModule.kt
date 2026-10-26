@@ -22,7 +22,7 @@ object NetworkModule {
     // For a physical device use your computer's LAN IP. Use HTTPS in production.
     //private const val API_BASE_URL = "http://10.0.2.2:8000/"
    // private const val API_BASE_URL = "https://stock-issued-interpretation-forecast.trycloudflare.com/"
-    private const val API_BASE_URL = "https://joy-assuming-handhelds-appearance.trycloudflare.com/"
+    private const val API_BASE_URL = "https://van-representatives-bike-speak.trycloudflare.com/"
 
     @Provides @Singleton
     fun provideOkHttpClient(): OkHttpClient {
